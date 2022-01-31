@@ -1,0 +1,32 @@
+Pensamento computacional
+4 pilares:
+1. Decomposição: dividir um problema complexo em subprogramas. Exemplo: Receita de bolo: massa, recheio e cobertura; busca binária
+
+2. Reconhecimento de padrões ou tendencias: similaridade e diferencas entre problemas. Padrão comportamental.
+
+3. Abstração:extrapolar o conceito do problema para uma forma generalista.
+
+4. Design de algoritimos: automatizar - Definir passo a passo a solucao do problema.
+
+Processo continuo: definir solucao -> testar solucao -> aperfeicoamento da solucao encontrada.  -- Analise-> refina -> testa.
+
+#Variacao dos pilares
+- Raciocinio logico
+- Refinamento
+
+Habilidades complementares: Raciocinio logico e aperfeicoamento.
+
+* RL - forma de pensamento estruturado ou raciocinio, que ermite encontrar a conclusao ou determinar a esolucao de um problema.
+
+Habilidade de treinamento.
+
+Classificacao do RL - Inducao, dedução e abdução.
+
+Inferencia
+|_ sintetica 
+|   |_ adbucao 
+|   |_ inducao
+|_ analitica
+    |_ deducao
+
+* Aperfecioamento
